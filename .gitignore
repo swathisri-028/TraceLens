@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+
+# Build outputs
+dist/
+build/
+.pytest_cache/
+
+# IDE & Logs
+.vscode/
+*.log
